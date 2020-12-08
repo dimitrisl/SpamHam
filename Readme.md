@@ -13,5 +13,7 @@ $ source assignment2/bin/activate
 
 
 $(assignment2) pip3 install spacy
+
 $(assignment2) python3 -m spacy download en_core_web_sm
+
 $ pip install -r requirements.txt
