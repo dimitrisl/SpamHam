@@ -11,6 +11,7 @@ $ python3.6 -m venv assignment2
 
 $ source assignment2/bin/activate
 
+$ pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 
 $(assignment2) pip3 install spacy
 
